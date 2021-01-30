@@ -1,2 +1,0 @@
-# CSRA
-prediction-assignment
